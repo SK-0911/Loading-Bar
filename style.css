@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    background-color: black;
+    color: lightgray;
+    font-family: 'cursive';
+}
+
+.container{
+    text-align: center;
+    width: 500px;
+    position: relative;
+}
+
+.counter{
+    font-size: 40px;
+}
+
+.loading-back{
+    position: absolute;
+    height: 8px;
+    background-color: lightgray;
+    width: 100%;
+    border-radius: 5px;
+    border: none;
+}
+
+.loading-front{
+    position: absolute;
+    height: 8px;
+    background-color: greenyellow;
+    width: 0%;  /*Change this with js*/
+    border-radius: 5px;
+    border: none;
+}
+
+
