@@ -2,6 +2,9 @@
 
 A simple loading bar made with HTML, CSS and JavaScript.
 
+> "Every great developer you know got there by solving problems they were unqualified to solve until 
+> they actually did it." - Patrick McKenzie
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -36,4 +39,4 @@ You can adjust the loading bar appearance and behavior by changing the values in
 
 ## Author
 
-- Shubham Kumar
+- [Shubham Kumar](https://github.com/SK-0911 "Shubham's GitHub Profile")
