@@ -16,9 +16,11 @@ What things you need to install the software and how to install them:
 
 1. Clone the repository to your local machine:
 
-$ git clone https://github.com/SK-0911/Loading-Bar.git
+    $ `git clone https://github.com/SK-0911/Loading-Bar.git`
 
-2. Open the index.html file in your browser.
+
+
+3. Open the index.html file in your browser.
 
 ### Usage
 
