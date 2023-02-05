@@ -40,3 +40,7 @@ You can adjust the loading bar appearance and behavior by changing the values in
 ## Author
 
 - [Shubham Kumar](https://github.com/SK-0911 "Shubham's GitHub Profile")
+
+## Deployment
+
+The loading bar can be viewed live [here](https://sk-0911.github.io/Loading-Bar/ "Deployed website")
