@@ -43,6 +43,4 @@ You can adjust the loading bar appearance and behavior by changing the values in
 
 ## Deployment
 
-The loading bar can be viewed live <a href="https://sk-0911.github.io/Loading-Bar/" target="_blank">here</a>
-
-[//]: # ([here]&#40;https://sk-0911.github.io/Loading-Bar/ "Deployed website"&#41;)
+The loading bar can be viewed live [here](https://sk-0911.github.io/Loading-Bar/ "Deployed website")
