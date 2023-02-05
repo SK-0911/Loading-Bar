@@ -6,6 +6,8 @@ A simple loading bar made with HTML, CSS and JavaScript.
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
+---
+
 ### Prerequisites
 
 What things you need to install the software and how to install them:
@@ -32,6 +34,6 @@ You can adjust the loading bar appearance and behavior by changing the values in
 - CSS
 - JavaScript
 
-## Authors
+## Author
 
 - Shubham Kumar
